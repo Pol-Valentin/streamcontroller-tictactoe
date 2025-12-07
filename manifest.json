@@ -1,0 +1,18 @@
+{
+    "name": "Tic-Tac-Toe",
+    "version": "1.0.0",
+    "app-version": "1.5.0-beta.6",
+    "minimum-app-version": "1.5.0",
+    "id": "com_pol_tictactoe",
+    "github": "https://github.com/pol/streamcontroller-tictactoe",
+    "thumbnail": "assets/thumbnail.png",
+    "descriptions": {
+        "en_US": "Play Tic-Tac-Toe on your Stream Deck! Features score tracking and a back button to return to your previous page.",
+        "fr_FR": "Jouez au Morpion sur votre Stream Deck ! Avec suivi du score et bouton retour."
+    },
+    "short-descriptions": {
+        "en_US": "Tic-Tac-Toe game for Stream Deck",
+        "fr_FR": "Jeu de Morpion pour Stream Deck"
+    },
+    "tags": ["Game", "Entertainment"]
+}
